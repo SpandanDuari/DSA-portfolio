@@ -1,7 +1,7 @@
 // Array of project objects with conditional links
 const projects = [
     { title: "Weather App", description: "Android app developed using Java for backend,XML for frontend and using openweathermap API to fetch live data.", url: "https://github.com/SpandanDuari/APP-TESTING.git" },  // No link
-    { title: "Netflix Clone", description: "A clone of the Netflix UI built with HTML,CSS and JavaScript.", url: "https://github.com/SpandanDuari/Netflix-clone.git" },
+    { title: "Netflix Clone", description: "A clone of the Netflix UI built with HTML,CSS and JavaScript.", url: "https://spandanduari.github.io/Netflix-clone/" },
     { title: "Project 3", description: "Description of project 3.", url: "" }  // No link
 ];
 
